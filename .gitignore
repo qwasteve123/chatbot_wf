@@ -1,0 +1,19 @@
+# folders
+env/
+audio_test/
+mecab-unidic-neologd/
+tdmelodic/
+test/
+Voicevox/
+
+# pycache
+__pycache__/
+**/__pycache__/
+
+
+#sound track files
+*.mp3
+*.wav
+
+# batch files
+*.bat
